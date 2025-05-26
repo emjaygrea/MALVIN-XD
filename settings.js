@@ -1,4 +1,4 @@
-const fs = require('fs');
+https://github.com/emjaygrea/MALVIN-XD/blame/8f1b352081580bf3f1335b282260af80efd3fb15/settings.js#L1const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
 function convertToBool(text, fault = 'true') {

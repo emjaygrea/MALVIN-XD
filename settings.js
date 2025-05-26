@@ -59,13 +59,13 @@ MODE: process.env.MODE || "public",
       CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
 
-          DELETE_LINKS: process.env.DELETE_LINKS || "false",
+          DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "26371475XXXX",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "+233538722180",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
+OWNER_NAME: process.env.emjay || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
 // add bot owner name
 
               DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
